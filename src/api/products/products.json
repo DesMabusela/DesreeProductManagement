@@ -1,0 +1,52 @@
+[
+  {
+    "productId": 1,
+    "productName": "Glamira Pendant necklace",
+    "productCode": "585",
+    "releaseDate": "March 19, 2019",
+    "description": "Necklace diamond yesllo and white Glamira",
+    "price": 3000.00,
+    "starRating": 6,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoARda-K13D8JK94VS140arK4fkXSxPIJGagRzu7b8HCkfZmtWbc6DgtYIox7jrSo2lP7zrfo&usqp=CAc"
+  },
+  {
+    "productId": 2,
+    "productName": "Alonnisos Ring",
+    "productCode": "355",
+    "releaseDate": "March 18, 2019",
+    "description": "Yellow gold glamira with white sapphire",
+    "price": 2500.00,
+    "starRating": 4,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhvyDp5yZQPaYo0HG64SMFWjCbixgUFtpIR2nI_Lzl3JwhLRpmJu9T-jYoGyEoFW9SMQuT2WnYQw&usqp=CAc"
+  },
+  {
+    "productId": 5,
+    "productName": "Bracelet Emerald",
+    "productCode": "375",
+    "releaseDate": "May 21, 2019",
+    "description": "Yellow Gold glamire bracelet ofendido",
+    "price": 1000.00,
+    "starRating": 5,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4rv4bPvwvPgXnHD-THJ_MFOummTQTLphSwPr8E_Pba8hE6b9ZbK5Pyx9KCw&usqp=CAc"
+  },
+  {
+    "productId": 8,
+    "productName": "Jaipur Rajasthan necklace",
+    "productCode": "145",
+    "releaseDate": "May 15, 2019",
+    "description": "idian shree necklace",
+    "price": 2000.00,
+    "starRating": 6,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKL3ImnhPb4PHVXAz6lX355pTKa2GSPikjlg&usqp=CAU"
+  },
+  {
+    "productId": 10,
+    "productName": "Gracious favour ring",
+    "productCode": "378",
+    "releaseDate": "October 15, 2018",
+    "description": "Yellow gold women's ring",
+    "price": 3500.00,
+    "starRating": 6,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3r6IJ_EgwagYgpVyKZ8iRf5WFLlXDT-TP0_BY6vd6GYz28eeuEkOIW-xtGWoh6eBN59omcCqy&usqp=CAc"
+  }
+]

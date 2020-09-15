@@ -1,0 +1,48 @@
+
+input[type="search"],input[type="text"]
+{
+ border: none;
+ border-bottom:1px solid ;
+ outline:none;
+ margin-top:2%;
+ margin-right:0px;
+ font-family:'sofia';
+ font-style:italic;
+ width:17%;
+ 
+ 
+}
+.price
+{
+    margin-left:29%;
+    color:rgb(216, 113, 16);
+}
+input[type="text"]
+{
+    margin-top:3%;
+}
+
+.Products
+{
+    margin-left:40%;
+   
+}
+.filter
+{
+    background-color: rgb(165, 101, 32);
+}
+
+a
+{ 
+  
+     padding:90px;
+     color:black;
+}
+.buttonImage
+{
+    background-color: rgb(128, 98, 66);
+    width:10%;
+}
+
+
+

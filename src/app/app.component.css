@@ -1,0 +1,16 @@
+.nav
+{
+    background-color:rgb(151, 87, 13);
+    width:100%;
+     
+}
+
+.nav-link
+{
+    color:black;
+    margin-left:768%;
+    font-size:20px;
+    font-family:'sofia';
+   
+   
+}

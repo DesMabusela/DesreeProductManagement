@@ -1,0 +1,73 @@
+               
+  <input type='search'  [(ngModel)]='listFilter' placeholder="what are you looking for?"/>&nbsp;&nbsp;&nbsp;
+
+  <input type="text" value="{{listFilter}}" placeholder="filtered by"/>
+  <div class="filter"   >    
+   <hr><hr>     
+  </div>        
+   <div class='Products' *ngIf='products && products.length>0'>
+    <div *ngFor='let product of filteredProducts'>
+         <img *ngIf='showImage'
+             [src]='product.imageUrl'
+             [title]='product.productName | uppercase' width='100' height='70'>
+          
+             <a [routerLink]="['/products',product.productId]">{{ product.productName }}</a> &nbsp;
+                      
+      <div class="price">
+         {{ product.price | currency:'ZAR' : 'symbol-narrow':'1.2-2' }}
+      </div>
+                    
+   </div>
+</div>
+
+<div class="filter" >
+  <hr><hr>     
+</div> 
+
+    <button class="buttonImage"
+    (click)= 'toggleImage()'>
+      {{showImage?'Hide':'Show'}} Image
+    </button> &nbsp;&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
